@@ -17,7 +17,7 @@ const jobPositions = [
     place: "University of Utah",
     previousPositions: [""],
     description:
-      "Served as a Teaching Assistant for course Web Software Development. Responsibilities include developing engaging course content, addressing student inquiries, grading assignments and exams, and conducting one-on-one sessions to resolve students' doubts.",
+      "Served as a Teaching Assistant for course Web Software Development. Responsibilities include developing engaging course content, addressing student inquiries, grading assignments and exams, and conducting one-on-one sessions to resolve students&#39; doubts.",
     skills: [
       "React",
       "JavaScript",
@@ -72,7 +72,7 @@ const jobPositions = [
     place: "vCoach Academy(formerly ReDockto)",
     previousPositions: [""],
     description:
-      "Engineered and deployed the company website, integrating daily widgets and collaborating closely with the design and operations teams to enhance the site's structure and design. Utilized Firebase for real-time updates.Integrated Google Analytics to track user geography, enabling data-driven decisions for deploying targeted updates and improvements through Firebase.",
+      "Engineered and deployed the company website, integrating daily widgets and collaborating closely with the design and operations teams to enhance the site&#39;s structure and design. Utilized Firebase for real-time updates.Integrated Google Analytics to track user geography, enabling data-driven decisions for deploying targeted updates and improvements through Firebase.",
     skills: [
       "HTML",
       "CSS",
