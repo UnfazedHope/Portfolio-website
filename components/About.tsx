@@ -11,7 +11,7 @@ export default function About() {
       <div className="flex flex-col gap-4">
         <p className="text-start text-muted-foreground lg:px-6">
         I&#39;m a passionate Software Engineer with a talent for developing innovative software solutions. 
-        Having completed my Master's degree in Computer Science at the University of Utah, 
+        Having completed my Master&#39;s degree in Computer Science at the University of Utah, 
         I bring a rich background in programming languages, including Java, Python, SQL, and C/C++. 
         My experience spans various cloud platforms such as AWS and Google Cloud, enhancing my ability to 
         design and deploy robust applications.
@@ -35,7 +35,7 @@ export default function About() {
         I am now seeking full-time opportunities starting in June 2024, where I can apply my diverse skill set and 
         enthusiasm for technology to create impactful solutions. I am particularly excited about roles that challenge me to push 
         the boundaries of innovation and allow me to contribute to meaningful projects. 
-        Let's connect to explore how we can collaborate and drive technological advancements together!
+        Let&#39;s connect to explore how we can collaborate and drive technological advancements together!
         </p>
 
 
