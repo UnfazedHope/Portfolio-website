@@ -54,15 +54,11 @@ export default function Nav() {
           </Avatar>
         </div>
         <h1 className="text-[42px] font-bold lg:text-start">
-          {/* Hi, i&#39;m Alexander 👋  */} Vishal Pange
+          Vishal Pange
         </h1>
         <h2 className="text-xl lg:text-start">
           Software Engineer
         </h2>
-        {/* <p className="text-lg lg:text-start text-muted-foreground">
-          I build seamless, user-first applications and web experiences that
-          bridge the gap between tech and people.
-        </p> */}
       </div>
       <nav className="lg:flex hidden">
         <ul className="flex flex-col w-max text-start gap-6 uppercase text-xs font-medium">
